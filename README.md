@@ -9,6 +9,10 @@ Ronda 3. Rojo y Verde
 <img width="1411" height="177" alt="image" src="https://github.com/user-attachments/assets/091a492c-4cac-438e-abf4-1fb9c81be88a" />
 <img width="802" height="52" alt="image" src="https://github.com/user-attachments/assets/c19ce3b8-b0d6-4e5b-9f89-07acf42e2e54" />
 
+Ronda 6. Rojo y Verde
+<img width="883" height="56" alt="image" src="https://github.com/user-attachments/assets/5ef391a7-abca-4253-9338-14ff2e883d3d" />
+<img width="837" height="47" alt="image" src="https://github.com/user-attachments/assets/84fa7109-bd5d-4bb5-b367-313fa1179dae" />
+
 
 
 #Aplicacion en Chrome
