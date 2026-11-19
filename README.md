@@ -7,6 +7,8 @@ Ronda 2. Rojo y Verde
 
 Ronda 3. Rojo y Verde
 <img width="1411" height="177" alt="image" src="https://github.com/user-attachments/assets/091a492c-4cac-438e-abf4-1fb9c81be88a" />
+<img width="802" height="52" alt="image" src="https://github.com/user-attachments/assets/c19ce3b8-b0d6-4e5b-9f89-07acf42e2e54" />
+
 
 
 #Aplicacion en Chrome
